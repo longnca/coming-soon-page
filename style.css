@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/background-image-2.webp);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main {
+    text-align: center;
+}
+
+.hero {
+    width: 100%; 
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+/* Class for the tagline above the "Coming Soon" message */
+.lead { 
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 4rem;
+    letter-spacing: 6px;
+    margin-bottom: 0.5rem;
+}
+
+hr {
+    width: 60%;
+    margin: 20px auto;
+    border: 1px solid #fff;
+}
+
+p {
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+#launch {
+    font-size: 1.3rem;
+    word-spacing: 3px;
+}
+
+/* Styles for progress bar */
+.progress-bar {
+    width: 60%;
+    height: 1rem;
+    background-color: #d1d1d1;
+    margin: 2rem auto;
+    margin-bottom: 100px;
+    opacity: .85;
+    position: relative;
+}
+
+.progress-bar::before {
+    content: "0%";
+    position:absolute;
+    left: 0;
+    font-size: 1rem;
+    bottom: -1.3rem;
+}
+
+.progress-bar::after {
+    content: "100%";
+    position:absolute;
+    right: 0;
+    font-size: 1rem;
+    bottom: -1.3rem;
+}
+
+.progress-bar span {
+    display: block;
+    width: 25%;
+    height: 100%;
+    background-color: #4A5A2F;
+    animation: fill 1s ease-in 1;
+}
+
+@keyframes fill {
+    from {
+        width: 0;
+    }
+    to {
+        width: 80%;
+    }
+}
+
+/* Styles for social media links */
+.social-media a {
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    background-color: #4A5A2F;
+    line-height: 3rem;
+    color: #fff;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    margin: 1rem;
+    opacity: .7;
+    transition: .3s linear;
+}
+
+.social-media a:hover {
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.5rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: transparent;
+}

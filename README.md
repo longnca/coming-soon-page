@@ -14,7 +14,7 @@ This project also helps me brush up on my basic web development skills. Check ou
 
 ## Tech Stack
 
-The single page is made using only **HTML** and **CSS** with a countdown timer built with **JavaScript**.
+The single web page is made using only **HTML** and **CSS** with a countdown timer and a progress bar built with **JavaScript**.
 
 ## Features
 

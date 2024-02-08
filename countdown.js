@@ -1,6 +1,6 @@
 // countdown.js
 
-var countDownDate = new Date("Sep 1, 2024 00:00:00").getTime();
+var countDownDate = new Date("July 1, 2024 00:00:00").getTime();
 var startTime = new Date("Feb 1, 2024 00:00:00").getTime(); 
 var totalTime = countDownDate - startTime;
 

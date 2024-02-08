@@ -1,7 +1,7 @@
-// countdown.js
+// Refactoring version of countdown.js
 
 (function() {
-    const countDownDate = new Date("Sep 1, 2024 00:00:00").getTime();
+    const countDownDate = new Date("July 1, 2024 00:00:00").getTime();
     const startTime = new Date("Feb 1, 2024 00:00:00").getTime(); 
     const totalTime = countDownDate - startTime;
 
@@ -10,7 +10,7 @@
         const distance = countDownDate - now;
         const elapsed = now - startTime;
         let progress = (elapsed / totalTime) * 100;
-        progress = Math.min(Math.max(progress, 0), 100); // Clamp progress between 0 and 100
+        progress = Math.min(Math.max(progress, 0), 100); // ensures that the progress value doesn't go below 0 or above 100
 
         const progressBar = document.querySelector('.progress-bar span');
         progressBar.style.width = progress + '%';

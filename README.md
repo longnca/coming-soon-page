@@ -32,7 +32,15 @@ The single web page is made using only **HTML** and **CSS** with a countdown tim
 
 ## Screenshots
 
-*To be updated.*
+The screenshots of the 'Coming Soon' page with two background images.
+
+Updated Feb 8, 2024:
+
+![background-2](/images/Screenshot%202024-02-08-02.png)
+
+![background-1](/images/Screenshot%202024-02-08-01.png)
+
+:grey_question: Which background image do you prefer?
 
 ## Usage
 

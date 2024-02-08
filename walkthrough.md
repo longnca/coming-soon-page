@@ -28,3 +28,5 @@ I created a layout wireframe for my landing page. The layout will show the place
 :fire: **Tip:** You can draw layouts by handwriting or use wireframing tools like Figma, Excalidraw, Sketch, Justinmind, Moqups, etc. I used Excalidraw for this project since I love its hand-drawn style.
 
 ![wireframe](/images/coming-soon-wireframe.png)
+
+*to be continued*

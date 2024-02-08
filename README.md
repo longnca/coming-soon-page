@@ -1,4 +1,4 @@
-# Coming Soon Page
+# 'Coming Soon' page built with HTML & CSS
 
 ## Overview
 
@@ -8,7 +8,7 @@ After buying the domain name (`longnguyen.ca`), I routed the nameservers (NS) to
 
 However, when anyone enters my domain site, they will only see the default Welcome page made by the hosting provider.
 
-Instead, I wanted to create my own Coming Soon page, which helps let the visitors know that the website is legit and will be available soon.
+Instead, I wanted to create my own 'Coming Soon' page, which helps let the visitors know that the website is legit and will be available soon.
 
 This project also helps me brush up on my basic web development skills. Check out my [write-up](./walkthrough.md) here!
 
@@ -22,9 +22,9 @@ The single page is made using only **HTML** and **CSS** with a countdown timer b
 - Clean, simple, neat looking.
 - Having a progress bar to show the progress and remaining time before the launch day.
 - Having a countdown timer.
-- Responsive.
+- Responsive (mobile-friendly).
 - Color theme: modern but moody, earthy tone.
-- Have a background image of Canadian Rockies :mountain: (my fav).
+- Have a background image of Canadian Rockies (my fav :smile:).
 
 ## Live Demo
 
@@ -42,7 +42,7 @@ The single page is made using only **HTML** and **CSS** with a countdown timer b
 
 ## Contributions
 
-I welcome contributions, feedback, and suggestions! Please feel free to fork the project, open pull requests or issues, or contact me with your ideas.
+I welcome contributions, feedback, and suggestions! Please feel free to fork the project, open pull requests/issues, or contact me with your ideas.
 
 ## Acknowledgments
 

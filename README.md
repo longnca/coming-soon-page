@@ -1,4 +1,4 @@
-# 'Coming Soon' page built with HTML & CSS
+# 'Coming Soon' page built with HTML, CSS, and JS
 
 ## Overview
 

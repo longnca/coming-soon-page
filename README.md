@@ -30,7 +30,7 @@ The single web page is made using only **HTML** and **CSS** with a countdown tim
 
 ## Live Demo
 
-*To be updated.*
+Check out the live demo (as of Feb 2024) at: [LongNguyen.ca](https://longnguyen.ca/).
 
 ## Screenshots
 

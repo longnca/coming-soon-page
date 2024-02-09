@@ -1,5 +1,7 @@
 # 'Coming Soon' page built with HTML, CSS, and JS
 
+![GitHub last commit](https://img.shields.io/github/last-commit/longnca/Coming-Soon-Page)
+
 ## Overview
 
 This sub-project is the prequel to the main project of building the entire portfolio website.

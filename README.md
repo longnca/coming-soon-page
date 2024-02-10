@@ -61,6 +61,8 @@ The background images are credited to:
 - [Dimitar Donovski](https://unsplash.com/@dmtrdon?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/wide-road-under-blue-sky-yrjB4dYWUZU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 - [Connor McSheffrey](https://unsplash.com/@mcsheffrey?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/mountain-covered-with-snow-osI4A3pojO8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 
+I picked up basic stuff and some good tips from [Responsive Web Design with HTML5 and CSS, 4th edition](https://www.amazon.ca/Responsive-Web-Design-HTML5-CSS/dp/180324271X) by Ben Frain.
+
 ## License
 
 MIT License

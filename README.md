@@ -6,7 +6,7 @@
 
 This sub-project is the prequel to the main project of building the entire portfolio website.
 
-After buying the domain name (`longnguyen.ca`), I routed the nameservers (NS) to my hosting provider. Once it was done, the website was live.
+After buying the domain name (`longnguyen.ca`), I set up server configurations (such as routing the nameservers (NS) to my hosting provider, etc.). Once it was done, the website was live.
 
 However, when anyone enters my domain site, they will only see the default Welcome page made by the hosting provider.
 

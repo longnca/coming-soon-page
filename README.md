@@ -36,13 +36,17 @@ Check out the live demo (as of Feb 2024) at: [LongNguyen.ca](https://longnguyen.
 
 The screenshots of the 'Coming Soon' page with two background images.
 
-Updated Feb 8, 2024:
+From this sketch design:
+
+![wireframe](/diagrams/coming-soon-wireframe.png)
+
+To this (Updated Feb 8, 2024)
 
 ![background-2](/images/Screenshot%202024-02-08-02.png)
 
 ![background-1](/images/Screenshot%202024-02-08-01.png)
 
-:grey_question: Which background image do you prefer?
+:question: Which background image do you prefer?
 
 ## Usage
 

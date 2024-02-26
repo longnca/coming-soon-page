@@ -25,7 +25,7 @@ Below are the steps and thought processes I did while making this project.
 
 I created a layout wireframe for my landing page. The layout will show the placement of elements like the title, sub-title, social media icons, countdown timer and/or progress bar.
 
-I tried to keep the layout simple. In my opinion, for a 'Coming Soon page, a single-screen layout with a central focus works well.
+I tried to keep the layout simple. In my opinion, for a 'Coming Soon' page, a single-screen layout with a central focus works well.
 
 :fire: **Tip:** You can draw layouts by handwriting or use wireframing tools like Figma, Excalidraw, Sketch, Justinmind, Moqups, etc. I used Excalidraw for this project since I love its hand-drawn style.
 
@@ -44,9 +44,15 @@ The structure should look like this:
 ```bash
 /coming-soon-page-project
     /css                # CSS or styling files
+        /style.css
     /diagrams           # Diagrams like Excalidraw
+        /diagram1.png
+        /diagram2.png
     /images             # Background images in PNG or WEBP
-    /js                 # JavaScript
+        /backgroundimage1.png
+        /backgroundimage2.png
+    /js                 # JavaScript files
+        /script.js
     index.html          # Front-end file
 ```
 
